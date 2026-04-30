@@ -1,0 +1,9 @@
+We intercepted a 5G encrypted transmission.
+Your goal: recover the secret key via power
+side-channel analysis, then decrypt the flag.
+
+Algorithm : SNOW-V (256-bit key, 128-bit IV)
+IV        : 0c39ec8853f66f943a8f37d52e7c800a
+Ciphertext: 9eab9d594f9cb8b54097c1437cc323f15540d21c9d39b73969502849216ec8
+
+Good luck.
